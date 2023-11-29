@@ -2379,7 +2379,7 @@
     (property "Value" "20K" (at 69.85 150.495 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 72.39 148.59 0)
+    (property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3386P_Vertical" (at 72.39 148.59 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 72.39 148.59 0)
